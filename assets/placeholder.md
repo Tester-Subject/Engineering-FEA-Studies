@@ -1,5 +1,4 @@
-# 🔬 Finite Element Analysis (FEA) Studies
-### Welcome to my structural simulation engineering portfolio. This repository holds my stress analysis, thermal testing, and material deformation studies.
+
 ## 📊 Study 1: Structural Load Simulation
 ### Objective: Test the maximum load threshold of a custom desk designer
 
