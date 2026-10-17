@@ -5,7 +5,7 @@ Young_modulus = 210*10^9
 Cross_section = 0.05
 length = 10
 
-#element stiffness matrix
+#element stiffness matrix which calculates how much force the object needs to move 1 unit
 k = (Young_modulus * Cross_section/length) * np.array([
   [1, -1],
   [-1, 1]
