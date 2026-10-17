@@ -6,7 +6,7 @@ Cross_section = 0.05
 length = 10
 
 #element stiffness matrix
-k = (Young_modulus * cross_section/Length) * np.array([
+k = (Young_modulus * Cross_section/length) * np.array([
   [1, -1],
   [-1, 1]
 ])
